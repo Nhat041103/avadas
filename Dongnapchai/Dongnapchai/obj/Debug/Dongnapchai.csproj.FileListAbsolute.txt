@@ -1,0 +1,16 @@
+C:\Users\nguye\source\repos\Dongnapchai\Dongnapchai\bin\Debug\Dongnapchai.exe.config
+C:\Users\nguye\source\repos\Dongnapchai\Dongnapchai\bin\Debug\Dongnapchai.exe
+C:\Users\nguye\source\repos\Dongnapchai\Dongnapchai\bin\Debug\Dongnapchai.pdb
+C:\Users\nguye\source\repos\Dongnapchai\Dongnapchai\bin\Debug\NetToolKit.dll
+C:\Users\nguye\source\repos\Dongnapchai\Dongnapchai\bin\Debug\S7.Net.dll
+C:\Users\nguye\source\repos\Dongnapchai\Dongnapchai\bin\Debug\SKCLNET.dll
+C:\Users\nguye\source\repos\Dongnapchai\Dongnapchai\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\nguye\source\repos\Dongnapchai\Dongnapchai\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\nguye\source\repos\Dongnapchai\Dongnapchai\obj\Debug\Dongnapchai.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\Dongnapchai\Dongnapchai\obj\Debug\Dongnapchai.Form1.resources
+C:\Users\nguye\source\repos\Dongnapchai\Dongnapchai\obj\Debug\Dongnapchai.Properties.Resources.resources
+C:\Users\nguye\source\repos\Dongnapchai\Dongnapchai\obj\Debug\Dongnapchai.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\Dongnapchai\Dongnapchai\obj\Debug\Dongnapchai.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\Dongnapchai\Dongnapchai\obj\Debug\Dongnapchai.csproj.CopyComplete
+C:\Users\nguye\source\repos\Dongnapchai\Dongnapchai\obj\Debug\Dongnapchai.exe
+C:\Users\nguye\source\repos\Dongnapchai\Dongnapchai\obj\Debug\Dongnapchai.pdb
